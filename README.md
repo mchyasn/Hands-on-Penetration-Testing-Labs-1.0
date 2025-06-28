@@ -1,5 +1,7 @@
 # Hands-on Penetration Testing Labs 1.0
 
+![Lab Screenshot](https://github.com/mchyasn/Hands-on-Penetration-Testing-Labs-1.0/blob/main/ScreenShots/Screenshot%202025-06-28%20100735.png?raw=true)
+
 ## This repository contains a practical series of penetration testing labs designed for cybersecurity learners, students preparing for certifications, or professionals seeking hands-on offensive security experience. These labs simulate real-world scenarios using virtual machines and Kali Linux in a safe, controlled environment.
 
 
